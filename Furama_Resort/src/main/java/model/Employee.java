@@ -5,7 +5,6 @@ public class Employee {
     private int maNhanVien;
     private String name;
     private String date;
-
     private String CMND;
     private String SDT;
     private String email;
